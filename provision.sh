@@ -23,7 +23,7 @@ fi
 
 sudo sh -c "cat >/var/www/html/index.html <<_END_
 <h1>
- Yellowww Server 1 🔥
+ Citi Groups Cerver 🔥
 </h1>
 
 <h3>refresh for a new picture</h3>
